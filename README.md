@@ -23,7 +23,10 @@
   - Virtual Destructor (important for polymorphic deletion)  
   - Curiously Recurring Template Pattern (CRTP)  
   - Mixin Classes  
-  - PImpl Idiom (Pointer to Implementation)
+  - PImpl Idiom (Pointer to Implementation)  
+
+ 🔹 OOP-related keywords in C++ are:  
+       class, struct, public, private, protected, this, new, delete, virtual, override, final, friend, static, mutable, const, explicit, inline, operator, template, typename, using, typedef, enum, namespace.
     
 ----
  
