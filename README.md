@@ -26,7 +26,7 @@
   - PImpl Idiom (Pointer to Implementation)  
 
  🔹 OOP-related keywords in C++ are:  
-       class, struct, public, private, protected, this, new, delete, virtual, override, final, friend, static, mutable, const, explicit, inline, operator, template, typename, using, typedef, enum, namespace.
+       class, struct, public, private, protected, this, new, delete, virtual, override, final, friend, static, mutable, const, explicit, inline, operator, template, typename, using, typedef, enum, namespace, noexcept.
     
 ----
  
@@ -41,3 +41,7 @@
    8. Copy-on-Write (COW) Idiom
    9. Handle/Body (Bridge Idiom)
    10. Non-Virtual Interface (NVI) Idiom
+
+----
+## Interview Questions:
+- How many ways can we create objects in C++?
