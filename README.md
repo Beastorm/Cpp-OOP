@@ -6,8 +6,17 @@
   - Inheritance
   - Polymorphism
 
-🔹 Access Specifiers  
-🔹 Constructors & Destructors  
+- Access Specifiers
+  - public, protected, and private   
+- Constructors
+  - default, parameterized, parameterized with default  
+  - copy (swallow and deep)
+  - move  (lvalue and rvalue references)  
+  - initializer list and its benefit
+ 
+- Destructors
+  - virtual distructor 
+  
 🔹 Operator Overloading  
 🔹 Friend Function & Friend Class  
 🔹 Virtual Functions & vtable  
