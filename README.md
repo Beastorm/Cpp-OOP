@@ -11,17 +11,20 @@
 - Constructors
   - default, parameterized, parameterized with default  
   - copy (swallow and deep)
-  - move  (lvalue and rvalue references)  
+  - move  (lvalue and rvalue references), move semantics  
   - initializer list and its benefit
  
 - Destructors
-  - virtual distructor 
+  - destructors behave with inheritance(virtual destructor) 
   
-🔹 Operator Overloading  
+- Operator Overloading
+  - move assignment operator
+  - copy assignment operator 
+ 
 🔹 Friend Function & Friend Class  
 🔹 Virtual Functions & vtable  
 🔹 Abstract Classes & Interfaces  
-🔹 Multiple Inheritance & Diamond Problem  
+🔹 Lambda function  
 🔹 Static Members & Methods  
 🔹 Templates (Generic OOP)  
 🔹 Smart Pointers (RAII & OOP)  
