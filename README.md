@@ -1,6 +1,6 @@
 ### OOP in C++:
 
-🔹 Basic OOP Principles in C++   
+🔹 OOP Principles   
   - Encapsulation
   - Abstraction
   - Inheritance
@@ -18,6 +18,7 @@
   - destructors behave with inheritance(virtual destructor) 
   
 - Operator Overloading
+  - unary and binary 
   - move assignment operator
   - copy assignment operator 
  
