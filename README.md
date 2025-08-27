@@ -10,8 +10,8 @@
   - public, protected, and private   
 - Constructors
   - default, parameterized, parameterized with default  
-  - copy (swallow and deep)
-  - move  (lvalue and rvalue references), move semantics  
+  - copy constructor, (swallow and deep)
+  - move constructor, (lvalue and rvalue references), move semantics  
   - initializer list and its benefit
  
 - Destructors
