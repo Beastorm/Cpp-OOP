@@ -22,7 +22,9 @@
   - move assignment operator
   - copy assignment operator 
  
-🔹 Friend Function & Friend Class  
+- Friend
+  - friend function
+  - friend Class and when to use and when not to use. Disadvantages  
 🔹 Abstract Classes & Interfaces  
 🔹 Lambda function  
 🔹 Static Members & Methods  
