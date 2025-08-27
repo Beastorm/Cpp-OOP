@@ -26,11 +26,19 @@
   - friend function
   - friend class and when to use and when not to use. Disadvantages
     
-🔹 Abstract Classes & Interfaces  
+- Abstract Classes
+  - Pure virtual function
+    
+- Interfaces 
+  - interface vs abstract class
+  
 🔹 Lambda function  
 🔹 Static Members & Methods  
 🔹 Templates (Generic OOP)  
-🔹 Smart Pointers (RAII & OOP)  
+🔹 Smart Pointers (RAII & OOP)
+
+- struct
+  - struct vs class
 
 🔹 Advanced OOP Concepts  
   - Composition vs Aggregation  
