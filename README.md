@@ -24,7 +24,8 @@
  
 - Friend
   - friend function
-  - friend Class and when to use and when not to use. Disadvantages  
+  - friend class and when to use and when not to use. Disadvantages
+    
 🔹 Abstract Classes & Interfaces  
 🔹 Lambda function  
 🔹 Static Members & Methods  
