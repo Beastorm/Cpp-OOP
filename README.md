@@ -34,6 +34,7 @@
   
 🔹 Lambda function  
 🔹 Static Members & Methods  
+🔹 Qualifiers like CV, ref (&, &&), etc.  
 🔹 Templates (Generic OOP)  
 🔹 Smart Pointers (RAII & OOP)
 
