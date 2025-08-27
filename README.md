@@ -45,10 +45,7 @@
 🔹 Advanced OOP Concepts  
   - Composition vs Aggregation  
   - Overriding vs Overloading  
-  - Virtual Destructor (important for polymorphic deletion)  
-  - Curiously Recurring Template Pattern (CRTP)  
   - Mixin Classes  
-  - PImpl Idiom (Pointer to Implementation)  
 
  🔹 OOP-related keywords in C++ are:  
        this, new, delete, virtual, override, final, friend, static, mutable, const, explicit, inline, operator, template, typename, using, typedef, enum, namespace, noexcept.
