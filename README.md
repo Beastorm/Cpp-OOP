@@ -23,7 +23,6 @@
   - copy assignment operator 
  
 🔹 Friend Function & Friend Class  
-🔹 Virtual Functions & vtable  
 🔹 Abstract Classes & Interfaces  
 🔹 Lambda function  
 🔹 Static Members & Methods  
