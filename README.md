@@ -42,12 +42,12 @@
 - struct  
   - struct vs class  
 
-🔹 Advanced OOP Concepts  
-  - Composition vs Aggregation  
-  - Overriding vs Overloading  
-  - Mixin Classes  
 
- 🔹 OOP-related keywords in C++ are:  
+- Composition vs Aggregation  
+- Overriding vs Overloading  
+- Mixin Classes  
+
+🔹 OOP-related keywords in C++ are:  
        this, new, delete, virtual, override, final, friend, static, mutable, const, explicit, inline, operator, template, typename, using, typedef, enum, namespace, noexcept.
     
 ----
