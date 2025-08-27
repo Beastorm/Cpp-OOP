@@ -31,15 +31,16 @@
     
 - Interfaces 
   - interface vs abstract class
-  
+    
+🔹 Lvalue vs Rvalue Functions    
 🔹 Lambda function  
 🔹 Static Members & Methods  
 🔹 Qualifiers like CV, ref (&, &&), etc.  
 🔹 Templates (Generic OOP)  
-🔹 Smart Pointers (RAII & OOP)
+🔹 Smart Pointers (RAII & OOP)  
 
-- struct
-  - struct vs class
+- struct  
+  - struct vs class  
 
 🔹 Advanced OOP Concepts  
   - Composition vs Aggregation  
@@ -50,7 +51,7 @@
   - PImpl Idiom (Pointer to Implementation)  
 
  🔹 OOP-related keywords in C++ are:  
-       class, struct, public, private, protected, this, new, delete, virtual, override, final, friend, static, mutable, const, explicit, inline, operator, template, typename, using, typedef, enum, namespace, noexcept.
+       this, new, delete, virtual, override, final, friend, static, mutable, const, explicit, inline, operator, template, typename, using, typedef, enum, namespace, noexcept.
     
 ----
  
