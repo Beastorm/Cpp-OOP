@@ -44,11 +44,14 @@
 
 
 - Composition vs Aggregation  
-- Overriding vs Overloading  
+- Overriding vs Overloading
+- vtable
 - Mixin Classes  
-
+- vptr, vbptr
+- casting
+- enum and enum class
 🔹 OOP-related keywords in C++ are:  
-       this, new, delete, virtual, override, final, friend, static, mutable, const, explicit, inline, operator, template, typename, using, typedef, enum, namespace, noexcept.
+       this, new, delete, final, static, mutable, const, explicit, inline, operator, template, typename, using, typedef, enum, namespace, noexcept.
     
 ----
  
@@ -67,3 +70,4 @@
 ----
 ## Interview Questions:
 - How many ways can we create objects in C++?
+- What happens if you try to override without virtual in C++?
