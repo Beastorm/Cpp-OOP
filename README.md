@@ -49,8 +49,11 @@
 - Mixin Classes  
 - vptr, vbptr
 - casting
-- enum and enum class
-🔹 OOP-related keywords in C++ are:  
+  - static_cast, dynamic_cast, const_cast, reinterpret_cast   
+- nested and inner classes
+- enum and enum class  
+
+🔹 OOP-related keywords:    
        this, new, delete, final, static, mutable, const, explicit, inline, operator, template, typename, using, typedef, enum, namespace, noexcept.
     
 ----
