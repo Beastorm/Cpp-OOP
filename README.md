@@ -67,8 +67,6 @@
    6. Virtual Constructor / Clone Idiom
    7. Guard Idiom
    8. Copy-on-Write (COW) Idiom
-   9. Handle/Body (Bridge Idiom)
-   10. Non-Virtual Interface (NVI) Idiom
 
 ----
 ## Interview Questions:
