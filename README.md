@@ -54,7 +54,7 @@
 - enum and enum class  
 
 🔹 OOP-related keywords:    
-       this, new, delete, final, static, mutable, const, explicit, inline, operator, template, typename, using, typedef, enum, namespace, noexcept.
+       this, new, delete, default, final, static, mutable, const, explicit, inline, template, typename, using, typedef, namespace, noexcept.
     
 ----
  
