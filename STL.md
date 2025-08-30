@@ -1,4 +1,4 @@
-# C++ STL Topics – Complete Map
+# C++ STL Topics
 
 ---
 
