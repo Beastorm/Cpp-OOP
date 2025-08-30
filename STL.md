@@ -40,7 +40,7 @@ Store elements in order of insertion.
 - **`string`**
   - Sequence of characters with STL-like methods.
 
-## 2.2 Associative Containers
+### 2.2 Associative Containers
 
 - Store elements in a **sorted order**, allow fast retrieval.
 - Containers:
@@ -48,7 +48,7 @@ Store elements in order of insertion.
   - `map` / `multimap` → key-value pairs  
 - **Key operations**: `insert`, `find`, `erase`, `count`
 
-## 2.3 Unordered Containers (C++11)
+### 2.3 Unordered Containers (C++11)
 
 - Implemented using **hash tables** (not sorted).  
 - Examples: `unordered_set`, `unordered_map`  
@@ -59,7 +59,7 @@ Store elements in order of insertion.
 
 ---
 
-## 2.4 Container Adaptors
+### 2.4 Container Adaptors
 
 - Adapt one container for specific behavior.  
 - Examples:  
