@@ -97,27 +97,14 @@ Predefined generic operations on containers.
 
 ---
 
-## 5. Functors / Function Objects
-
-Objects that can be called like a function.  
-Used in algorithms to define custom behavior. 
-
----
-
-## 6. Lambda Functions (C++11)
-
-Anonymous inline functions for algorithms. 
-
----
-
-## 7. Allocators
+## 5. Allocators
 
 Control how memory is allocated for containers.  
 Rarely used directly; STL uses `std::allocator<T>` by default.  
 
 ---
 
-## 8. Iterators + Algorithms Patterns
+## 6. Iterators + Algorithms Patterns
 
 STL emphasizes separating **data structure (container)** from **operations (algorithms)** using iterators.  
 
@@ -126,7 +113,7 @@ STL emphasizes separating **data structure (container)** from **operations (algo
 
 ---
 
-## 9. Advanced STL Topics
+## 7. Advanced STL Topics
 
 - **Move semantics** – `emplace_back`, `std::move`  
 - **Smart pointers** – `std::unique_ptr`, `std::shared_ptr`  
