@@ -57,15 +57,15 @@ Store elements in order of insertion.
   - `find` → **O(1)**  
   - `erase` → **O(1)**  
 
----
-
 ### 2.4 Container Adaptors
 
 - Adapt one container for specific behavior.  
 - Examples:  
   - `stack` → **LIFO** (usually uses `deque`)  
   - `queue` → **FIFO** (usually uses `deque`)  
-  - `priority_queue` → **max-heap** or **min-heap**  
+  - `priority_queue` → **max-heap** or **min-heap**
+ 
+---
 
 ## 3. Iterators
 
@@ -81,6 +81,8 @@ Iterators provide a uniform way to traverse containers.
 ### Common Operations
 - `++it`, `--it`, `*it`, `it + n`
 
+---
+
 ## 4. Algorithms
 
 Predefined generic operations on containers.
@@ -90,21 +92,29 @@ Predefined generic operations on containers.
 - **Modifying algorithms**: `copy`, `replace`, `fill`, `swap`  
 - **Sorting / Partitioning**: `sort`, `partial_sort`, `stable_sort`, `nth_element`  
 - **Set operations**: `set_union`, `set_intersection`  
-- **Numeric algorithms**: `accumulate`, `adjacent_difference`, `iota`  
+- **Numeric algorithms**: `accumulate`, `adjacent_difference`, `iota`
+
+---
 
 ## 5. Functors / Function Objects
 
 Objects that can be called like a function.  
-Used in algorithms to define custom behavior.  
+Used in algorithms to define custom behavior. 
+
+---
 
 ## 6. Lambda Functions (C++11)
 
-Anonymous inline functions for algorithms.  
+Anonymous inline functions for algorithms. 
+
+---
 
 ## 7. Allocators
 
 Control how memory is allocated for containers.  
 Rarely used directly; STL uses `std::allocator<T>` by default.  
+
+---
 
 ## 8. Iterators + Algorithms Patterns
 
@@ -121,7 +131,9 @@ STL emphasizes separating **data structure (container)** from **operations (algo
 - **Smart pointers** – `std::unique_ptr`, `std::shared_ptr`  
 - **STL Performance Patterns** – prefer `vector` over `list` in most cases (cache-friendly)  
 - **Custom comparators** – for `set`, `map`, `priority_queue`  
-- **Ranges and Views (C++20)** – `std::ranges::filter`, `transform_view`  
+- **Ranges and Views (C++20)** – `std::ranges::filter`, `transform_view`
+
+---
 
 
 
