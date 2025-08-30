@@ -44,8 +44,9 @@ Store elements in order of insertion.
 
 - Store elements in a **sorted order**, allow fast retrieval.
 - Containers:
-  - `set` / `multiset` → unique / non-unique elements
   - `map` / `multimap` → key-value pairs  
+  - `set` / `multiset` → unique / non-unique elements
+
 - **Key operations**: `insert`, `find`, `erase`, `count`
 
 ### 2.3 Unordered Containers (C++11)
